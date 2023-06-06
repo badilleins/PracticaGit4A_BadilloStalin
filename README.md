@@ -4,7 +4,7 @@ Este repositorio abarca una práctica en la que se creó una plantilla de un por
 ## Prerequisitos
 ---
 Para poder manipular los archivos se necesita de algún entorno de desarrollo integrado IDE.Como puede ser el caso de visual studio code. 
-Puedes instalarlo en el siguiente link: [Pagina de Instalación de Visual Studio Code](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8be9dd6a-f692-4ab0-9af2-f8ed088e4bda%2FUntitled.png?table=block&id=0c5114eb-1f7b-4fac-90a4-dc43fbbb5e27&spaceId=519ba968-477e-4c6b-be11-6cc1e9f89c50&width=2000&userId=bee0ac1a-f714-40ab-9d37-b912c15136f9&cache=v2)
+Puedes instalarlo en el siguiente link: [Pagina de Instalación de Visual Studio Code](https://code.visualstudio.com/Download)
 ## Instalacion
 ---
 Para instalar el proyecto debes:
@@ -12,7 +12,7 @@ Para instalar el proyecto debes:
 2. Dirigirte a una carpeta. 
 3. Ejecutar el comando :    
 ```
-   Git clone https://github.com/badilleins/PracticaGit4A_BadilloStalin.git
+   git clone https://github.com/badilleins/PracticaGit4A_BadilloStalin.git
 
 ```
 Listo, ya tienes este proyecto. 
